@@ -6,3 +6,19 @@
   and then displays the letter grade. Students will develop the Java program in six steps and each step 
   will build off the code from the previous steps, which are listed in the prompt below.
 
+
+---
+
+# Overview
+
+---
+
+## Future Improvements
+
+---
+## Tools/Skills Used:
+
+* Programming Language: Java
+* IDE: IntelliJ IDE
+* Version Control: Git & GitHub
+
