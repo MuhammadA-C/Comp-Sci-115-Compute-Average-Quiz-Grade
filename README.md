@@ -3,6 +3,12 @@ Computer Science 115: Assignment- Compute average from grades from 10 quizzes, a
 
 ---
 
+* Took on Study.com for transfer credit for Scripting & Programming Foundations for Western Governors University Bachelor of Science in Software Development
+* Date: 09/15/2022
+
+
+---
+
 # Overview
 
 **Assignment Prompt:**
